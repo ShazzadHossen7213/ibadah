@@ -1,0 +1,1659 @@
+@media(max-width: 1400px) {
+    .hero-section {
+        padding-top: 240px;
+        padding-bottom: 90px;
+    }
+    ul.star {
+        padding: 5px 10px;
+    }
+    .hero-section {
+        height: auto;
+    }
+    .hero-section img.hero-img-style {
+        position: absolute;
+        top: 0;
+        height: 100%;
+    }
+    .blog-two.our-blog .donation-collected .circle div {
+        left: 77%;
+        top: 42%;
+    }
+    .donation-collected .circle canvas {
+        width: 98px !important;
+        height: 98px !important;
+    }
+    .donation-collected .circle {
+        width: 100px;
+        height: 100px;
+    }
+    ul.star li i {
+        font-size: 12px;
+    }
+    .navbar-links li.navbar-dropdown .dropdown a {
+        font-size: 14px;
+        padding-left: 20px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+    .donation-collected .progressbar {
+        width: 105px;
+    }
+    .donation-collected .progressbar {
+        margin-left: 40px;
+    }
+    .error form {
+        margin-top: 15px;
+    }
+    .campaigns-text {
+        padding: 18px;
+        padding-top: 160px;
+    }
+    .header-search a {
+        font-size: 14px;
+    }
+    .scholars.scholars-details ul.social-media {
+        right: 5%;
+        top: 22%;
+    }
+    #progress {
+        height: 47px;
+        width: 47px;
+    }
+    .error h2 {
+        font-size: 160px;
+        line-height: 120px;
+    }
+    .join-our-img img:nth-child(3) {
+        right: 4%;
+        top: 7%;
+    }
+    .upcoming-event #countdown ul li {
+        margin-right: 3px;
+    }
+    .header-search svg {
+        width: 17px;
+        margin-right: 12px;
+    }
+    .sidebar {
+        padding: 30px;
+    }
+    .navbar-links li>a {
+        font-size: 14px;
+    }
+    .hero-section.two .hero-text h1 {
+        font-size: 58px;
+    }
+    .bannr-text h2 {
+        font-size: 58px;
+        line-height: 56px;
+    }
+    .navbar-links li:not(:last-child) {
+        padding-right: 30px;
+    }
+    .campaigns-text h5 a {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .hero-text h1 {
+        font-size: 60px;
+    }
+    .upcoming-text h4 a {
+        font-size: 23px;
+        line-height: 33px;
+        padding-bottom: 8px;
+    }
+    .upcoming-text {
+        padding: 26px;
+    }
+    .upcoming-event #countdown {
+        left: 7%;
+        top: 38%;
+    }
+    .error h3 {
+        font-size: 30px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .hero-text p {
+        padding-bottom: 38px;
+        font-size: 20px;
+        width: 91%;
+    }
+    .slider-home-1 .owl-dots {
+        left: 8%;
+        bottom: 26px;
+    }
+    .recent-post a {
+        font-size: 16px;
+    }
+    ul.recent-post span {
+        font-size: 13px;
+    }
+    .btn {
+        padding: 18px 36px;
+    }
+    .sidebar h3 {
+        font-size: 22px;
+    }
+    .namaz-timing-date h3 {
+        font-size: 40px;
+    }
+    .our-blog.blog-two h5 {
+        font-size: 30px;
+    }
+    ul.namaz-timing-two li.timing-date,
+    ul.namaz-timing-two li.namaz-timing-heading {
+        padding: 10px 25px;
+    }
+    .blog-man img {
+        width: auto !important;
+    }
+    .comment h3 {
+        font-size: 36px;
+    }
+    .namaz-timing-schedule {
+        padding: 25px;
+        padding-top: 50px;
+    }
+    .hero-img img {
+        width: 50% !important;
+    }
+    .opening-time-text h3 a {
+        font-size: 24px;
+    }
+    .about-instructor {
+        padding: 30px;
+    }
+    .welcome-to-ibadat-established img {
+        width: 98%;
+    }
+    .welcome-to-ibadat-established img.to-ibadat-img {
+        width: auto;
+    }
+    .welcome-to-ibadat-established h4 {
+        width: 150px;
+        height: 150px;
+        padding-top: 23px;
+    }
+    .opening-time img {
+        width: 84%;
+    }
+    .namaz-time h4 {
+        font-size: 28px;
+        padding-top: 6px;
+        padding-bottom: 16px;
+    }
+    .about-instructor .scholar img {
+        width: 79px;
+    }
+    .about-instructor .scholar h4 {
+        font-size: 18px;
+    }
+    ul.image-gallery li figure {
+        width: 169px;
+        height: 130px;
+    }
+    .scholars.scholars-details .opening-time-text {
+        padding-left: 10px;
+    }
+    .service a {
+        font-size: 24px;
+        padding-top: 18px;
+        padding-bottom: 4px;
+    }
+    .travel-package h5 {
+        font-size: 40px;
+    }
+    .courses-two a {
+        font-size: 20px;
+    }
+    .courses-two {
+        margin-bottom: 13px;
+    }
+    .travel-package-list ul li i {
+        font-size: 18px;
+    }
+    .program .heading.two {
+        padding-bottom: 30px;
+    }
+    .program-time h5 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .program-time i {
+        font-size: 38px;
+    }
+    .program-img li img {
+        border-radius: 50%;
+        width: 96%;
+    }
+    .travel-package h4 {
+        font-size: 20px;
+    }
+    .audio-ayat {
+        margin-top: 30px;
+    }
+    .namaz-time {
+        padding-top: 15px;
+        padding-bottom: 90px;
+    }
+    .namaz-time h5 {
+        font-size: 18px;
+    }
+    .heading {
+        width: 66%;
+    }
+    .community img {
+        width: 100%;
+    }
+    .community-text a {
+        font-size: 24px;
+    }
+    .community-text i {
+        width: 90px;
+        height: 90px;
+        transform: translatey(-40px);
+    }
+    .logos-heading {
+        margin-top: 100px;
+    }
+    .blog figure,
+    .blog figure img,
+    .img-navigating img,
+    .pillars-name>img {
+        width: 100%;
+    }
+    .pillars-name {
+        width: 19%;
+    }
+    .support-us h6 {
+        font-size: 40px;
+        padding-top: 14px;
+    }
+    .count-style h2 {
+        font-size: 60px;
+    }
+    .islamic-mosque {
+        padding: 53px 0;
+    }
+    .blog h5 a {
+        line-height: 34px;
+        font-size: 24px;
+    }
+    .footer-top {
+        padding-bottom: 60px;
+        margin-bottom: 60px;
+    }
+    .Information ul li {
+        padding-bottom: 22px;
+    }
+    .widget-title p {
+        width: 90%;
+    }
+    .Information {
+        padding-bottom: 70px;
+    }
+    .islamic-ayat img.ayat-with-img {
+        width: 43%;
+    }
+    .ayat-img {
+        margin-top: 178px;
+        margin-left: 40px;
+    }
+    .wpo-lower-footer {
+        padding-top: 24px;
+        padding-bottom: 24px;
+    }
+    .navigating-life {
+        padding-left: 30px;
+    }
+    .pillars-name a {
+        font-size: 23px;
+        padding-top: 15px;
+        padding-bottom: 0px;
+    }
+    .listen-holy .heading.two {
+        padding-top: 120px;
+    }
+    .support-us {
+        padding-bottom: 80px;
+        padding-top: 70px;
+    }
+    .support-us h4 {
+        font-size: 40px;
+        padding-bottom: 14px;
+    }
+    .logos-heading h3 {
+        font-size: 35px;
+        padding-bottom: 30px;
+    }
+    .courses-text a {
+        font-size: 20px;
+        line-height: 30px;
+        padding-bottom: 14px;
+    }
+    .community-text svg {
+        width: 50px;
+    }
+    .community-text p {
+        width: 97%;
+    }
+    h2 {
+        font-size: 46px;
+    }
+    .real-history-book {
+        margin-top: 18px;
+    }
+    .circle-text img.circle-text-img {
+        top: 6%;
+        left: 18%;
+    }
+    .blog-two img,
+    .blog-two figure,
+    .real-history-book img,
+    .real-history-book figure {
+        width: 100%;
+    }
+    .blog-two h5 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .blog-two>a i {
+        width: 44px;
+        height: 44px;
+        margin-right: 14px;
+    }
+    .gap {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .masjid:before {
+        width: 240px;
+        height: 240px;
+    }
+    .no-top {
+        padding-top: 0;
+    }
+    .no-bottom {
+        padding-bottom: 0;
+    }
+    .masjid {
+        padding-top: 120px;
+        padding-bottom: 120px;
+        background-size: 58%;
+    }
+    .learn-quran h4 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+}
+
+@media(max-width: 1200px) {
+    .two-bar:before,
+    .two-bar:after,
+    .top-bar {
+        display: none;
+    }
+    .search-popup .close-search {
+        top: 6%;
+        left: 82%;
+    }
+    .error p {
+        padding-top: 10px;
+        line-height: 26px;
+    }
+    .about-instructor {
+        padding: 30px;
+    }
+    .error-404 {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .scholars.scholars-details .opening-time.hoverimg figure {
+        width: 45%;
+    }
+    .upcoming-event #countdown ul li {
+        width: 62px;
+        height: 62px;
+        padding: 0px;
+    }
+    .content {
+        margin-top: -31px;
+        padding-top: 50px !important;
+    }
+    .our-blog.blog-two h5 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .hero-section.two .hero-text h1 {
+        font-size: 48px;
+    }
+    .mobile-nav {
+        width: 50%;
+    }
+    .contact-us {
+        padding: 26px;
+    }
+    .bannr-section {
+        padding-top: 100px;
+        padding-bottom: 30px;
+    }
+    .about-instructor .scholar img {
+        width: 86px;
+    }
+    .upcoming-text>a {
+        width: 40px;
+        height: 40px;
+        right: 19px;
+        bottom: 27px;
+    }
+    .upcoming-text .location i {
+        margin-right: 5px;
+    }
+    .upcoming-text .location span {
+        font-size: 13px;
+    }
+    .upcoming-event #countdown ul li span {
+        margin-top: 6px;
+        font-size: 20px;
+    }
+    header {
+        position: relative;
+        background-color: var(--common-colour);
+    }
+    .two-bar {
+        padding: 8px 0;
+    }
+    .header-search,
+    header .navbar {
+        display: none;
+    }
+    .recent-post img {
+        margin-right: 14px;
+    }
+    .sidebar {
+        padding: 18px;
+    }
+    .courses-text a {
+        font-size: 18px;
+        line-height: 28px;
+        padding-bottom: 14px;
+    }
+    .sidebar h3 {
+        font-size: 20px;
+    }
+    .bar-menu {
+        display: block;
+    }
+    .blog-details-style ul.list li {
+        font-size: 16px;
+        padding-left: 24px;
+    }
+    ul.list li:before {
+        top: 6px;
+    }
+    .opening-time-text {
+        padding-left: 15px;
+    }
+    .contact-us h4 {
+        font-size: 20px;
+    }
+    .quote-color {
+        padding: 34px;
+        margin: 20px 0;
+        margin-bottom: 30px;
+    }
+    .boder-bar {
+        margin-bottom: 20px;
+    }
+    ul.photo-gallery img {
+        height: 72px;
+        width: 100%;
+    }
+    .quote-color h5 {
+        font-size: 22px;
+        line-height: 36px;
+    }
+    .contact-us i {
+        width: 70px;
+        height: 70px;
+    }
+    .contact-us p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+    .content {
+        padding: 30px;
+    }
+    .contact-us svg {
+        width: 37px;
+    }
+    .contact-us {
+        padding: 40px;
+    }
+    .bar-menu i {
+        color: #fff;
+    }
+    .namaz-timing-schedule {
+        width: 79%;
+    }
+    .hero-img.two img {
+        left: -25%;
+        width: 70% !important;
+    }
+    .travel-package {
+        padding: 10px;
+    }
+    .two-bar .d-flex.align-items-center.justify-content-between {
+        width: 100%;
+    }
+    .learn-quran h4 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .blog-two h5 {
+        font-size: 22px;
+    }
+    .scholars .opening-time a {
+        font-size: 14px;
+    }
+    .service a {
+        font-size: 22px;
+    }
+    .scholar-two h4 span {
+        display: block;
+    }
+    .share-nodes>a {
+        width: 50px;
+        height: 50px;
+    }
+    .widget-title h5 a {
+        font-size: 22px;
+    }
+    .learn-quran {
+        padding: 30px;
+        padding-top: 50px;
+        padding-bottom: 100px;
+    }
+    .masjid-text p {
+        width: 43%;
+    }
+    .masjid-text h3 {
+        font-size: 48px;
+        width: 57%;
+    }
+    .package-reat {
+        padding-top: 30px;
+        padding-left: 10px;
+    }
+    .travel-package h5 {
+        font-size: 34px;
+    }
+    .travel-package-list {
+        padding: 26px;
+    }
+    ul.image-gallery {
+        flex-wrap: wrap;
+    }
+    .slider-ayat.two {
+        padding-bottom: 0px;
+    }
+    ul.image-gallery li figure {
+        width: 133px;
+        height: 105px;
+    }
+    .service+.service {
+        margin-top: 40px;
+    }
+    .service {
+        width: 100%;
+    }
+    .opening-time-text h3 a {
+        font-size: 22px !important;
+    }
+    .bar-menu i {
+        margin-right: 0px;
+        font-size: 26px;
+    }
+    .hero-section {
+        height: auto;
+    }
+    .hero-section {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .courses-weeks {
+        padding: 14px 16px;
+    }
+    .hero-text h1 {
+        font-size: 48px;
+    }
+    .logos-heading h3 {
+        font-size: 32px;
+    }
+    h2 {
+        font-size: 46px;
+    }
+    .slider-ayat.owl-carousel .owl-item img {
+        width: 100%;
+    }
+    .heading {
+        padding-bottom: 30px;
+    }
+    .navigating-life .location span {
+        font-size: 14px;
+    }
+    .navigating-life svg {
+        width: 16px;
+    }
+    .join-our-community h2 {
+        width: 72%;
+        font-size: 44px;
+    }
+    .Information ul li a {
+        font-size: 14px;
+    }
+    .blog h4 {
+        font-size: 34px;
+        width: 102px;
+        height: 102px;
+        padding-top: 17px;
+    }
+    .navigating-life {
+        padding-left: 00px;
+    }
+    .navigating-life i {
+        font-size: 15px;
+    }
+    .blog-man img {
+        width: 60px;
+    }
+    .blog-man h6 {
+        font-weight: 900;
+        text-transform: capitalize;
+        font-size: 14px;
+    }
+    .islamic-mosque h5 {
+        padding-top: 4px;
+        padding-bottom: 28px;
+        font-size: 16px;
+    }
+    .support-us h4 {
+        font-size: 32px;
+        padding-bottom: 14px;
+    }
+    .courses .border {
+        height: 38px;
+        margin-top: -21px;
+    }
+    .islamic-history p {
+        line-height: 26px;
+        font-size: 16px;
+    }
+    .circle-text figure.circle-img {
+        width: 152px;
+        height: 152px;
+    }
+    .islamic-history a.btn {
+        margin-top: 14px;
+    }
+    ul.list li {
+        font-size: 16px;
+    }
+    .circle-text figure.circle-img img {
+        width: 105px;
+        padding: 24px;
+    }
+    .circle-text img.circle-text-img {
+        top: 6%;
+        left: 18%;
+        width: 64%;
+    }
+    .namaz-time h4 {
+        font-size: 22px;
+    }
+    img.hero-img-style {
+        width: 100% !important;
+    }
+}
+
+@media(max-width: 993px) {
+    .gap {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .accordion .content {
+        margin-bottom: 0;
+    }
+    .scholars.mb-0 .opening-time {
+        margin-bottom: 0;
+    }
+    .mb-80 {
+        margin-bottom: 40px;
+    }
+    .no-top {
+        padding-top: 0;
+    }
+    .no-bottom {
+        padding-bottom: 0;
+    }
+    .scholars.scholars-details .opening-time {
+        flex-wrap: wrap;
+    }
+    .scholars.scholars-details .opening-time.hoverimg figure {
+        width: 100%;
+    }
+    .comment h3 {
+        font-size: 32px;
+    }
+    .scholars.scholars-details ul.social-media {
+        right: 5%;
+        top: 57%;
+    }
+    .courses-details h5 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .video a i:after {
+        width: 90px;
+        height: 90px;
+    }
+    .bannr-text h2 {
+        font-size: 46px;
+        line-height: 46px;
+    }
+    .content {
+        margin-bottom: 40px;
+    }
+    ul.image-gallery li figure {
+        margin-bottom: 14px;
+        width: 200px;
+        height: 130px;
+    }
+    .video a i {
+        width: 74px;
+        height: 74px;
+    }
+    .audio-ayat #wrapper {
+        padding: 20px 20px;
+        padding-top: 20px;
+    }
+    .travel-package {
+        margin-bottom: 40px;
+    }
+    .sidebar {
+        padding: 40px;
+        margin-top: 40px;
+    }
+    .recent-post a {
+        font-size: 20px;
+    }
+    ul.photo-gallery img {
+        height: 172px;
+        width: 100%;
+    }
+    .post-tags {
+        margin-top: 30px;
+    }
+    .sidebar h3 {
+        font-size: 24px;
+    }
+    .single-comment {
+        padding: 12px;
+    }
+    .hero-section.two .hero-text {
+        width: 100%;
+        margin: auto;
+    }
+    .masjid:before {
+        width: 180px;
+        height: 180px;
+    }
+    .service:before {
+        left: 66px;
+    }
+    .slider-home-1 .owl-item img.hero-img-style {
+        height: 100% !important;
+        object-fit: cover;
+    }
+    .masjid {
+        padding-top: 70px;
+    }
+    .learn-quran {
+        padding: 40px;
+        border-radius: 0;
+    }
+    footer.two .wpo-lower-footer {
+        border-top: 0px;
+        margin-top: 0;
+    }
+    .namaz-time {
+        border: 1px solid #bcbcbc;
+    }
+    .blog-two {
+        margin-bottom: 40px;
+    }
+    .scholar-two h4 span {
+        display: inline;
+    }
+    .program .heading.two {
+        margin-top: 40px;
+    }
+    .video {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .listen-holy .heading.two {
+        padding-top: 100px;
+    }
+    .audioplayer-playpause {
+        width: 40px;
+        height: 40px;
+    }
+    .hero-text p,
+    .heading {
+        width: 100%;
+    }
+    h2 {
+        font-size: 40px;
+    }
+    .audio-ayat #wrapper h4,
+    .audio-ayat #wrapper h5 {
+        font-size: 14px;
+        padding-left: 50px;
+    }
+    .scholars .opening-time {
+        margin-bottom: 40px;
+    }
+    .audio-ayat #wrapper {
+        width: 98%;
+    }
+    .pdf-slider {
+        margin-top: 80px;
+    }
+    .surat-download {
+        width: 96%;
+    }
+    .islamic-history {
+        margin-top: 40px;
+    }
+    .namaz-timing-schedule {
+        width: 56%;
+    }
+    .welcome-to-ibadat-established img.to-ibadat-img {
+        width: 30%;
+        bottom: -12%;
+    }
+    .welcome-to-ibadat .heading.two {
+        width: 100%;
+    }
+    .islamic-classes-time {
+        margin-bottom: 40px;
+    }
+    .hero-img.two img {
+        left: 7%;
+        width: 52% !important;
+    }
+    .hero-img.two {
+        justify-content: end;
+    }
+    .support-us {
+        padding-bottom: 60px;
+        padding-top: 60px;
+        border-radius: 0;
+        margin-top: 40px;
+    }
+    .pillars-name {
+        width: 31%;
+        margin-right: 16px;
+        margin-bottom: 30px;
+    }
+    .hero-section {
+        text-align: center;
+    }
+    .hero-img {
+        justify-content: center;
+        margin-top: 40px;
+    }
+    .islamic-mosque {
+        width: 49.9%;
+        margin-bottom: 40px;
+    }
+    .pillars {
+        justify-content: start;
+        flex-wrap: wrap;
+    }
+    .ayat-img,
+    .islamic-ayat img.ayat-with-img {
+        display: none;
+    }
+    .islamic-ayat {
+        margin-bottom: 100px;
+    }
+    .fun-facts {
+        flex-wrap: wrap;
+    }
+    .namaz-timing {
+        flex-wrap: wrap;
+    }
+    .namaz-time {
+        width: 33%;
+        margin-top: 30px;
+    }
+    .circle-text {
+        margin-top: 17px;
+        width: fit-content;
+    }
+    .hero-img img {
+        width: 30% !important;
+    }
+    .circle-text img.circle-text-img {
+        top: 8%;
+        left: 6%;
+        width: 87%;
+    }
+    .community {
+        margin-bottom: 40px;
+    }
+    .courses {
+        margin-bottom: 40px;
+    }
+    .courses-text a {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .logos li img {
+        width: 100%;
+    }
+    .logos li {
+        padding: 18px 28px;
+        width: 33%;
+    }
+    .our-courses-section {
+        background-size: cover;
+    }
+    .navigating-life {
+        margin-top: 60px;
+    }
+    .join-our-img {
+        display: none;
+    }
+    .join-our-community h2 {
+        font-size: 33px;
+        width: 98%;
+    }
+    .join-our-community {
+        padding: 60px 0;
+    }
+    .blog {
+        margin-bottom: 40px;
+    }
+    .Information {
+        padding-bottom: 0px;
+        border: 0;
+    }
+    .wpo-lower-footer .border {
+        border: 1px solid #ffffff !important;
+        height: 22px;
+        margin: 0px 16px;
+    }
+    .wpo-lower-footer {
+        margin-top: 60px;
+        border-top: 1px solid;
+    }
+    .wpo-lower-footer {
+        margin-top: 60px;
+    }
+}
+
+@media(max-width: 768px) {
+    h2 {
+        font-size: 38px;
+    }
+    .error {
+        width: 100%;
+    }
+    .logos-heading {
+        margin-top: 50px;
+    }
+    .slider-ayat.two .ayat {
+        padding: 0;
+        padding-bottom: 20px;
+    }
+    .scholars.scholars-details ul.social-media {
+        right: 5%;
+        top: 52%;
+    }
+    .courses-details figure img {
+        width: 100%;
+        height: auto;
+    }
+    .upcoming-event #countdown {
+        left: 22%;
+        top: 57%;
+    }
+    .mobile-nav {
+        width: 70%;
+    }
+    .scholars.scholars-details .opening-time {
+        padding-left: 0px;
+        margin-bottom: 0;
+    }
+    .map iframe {
+        height: 300px;
+    }
+    li.single-comment img {
+        margin-right: 16px;
+    }
+    .hero-section {
+        padding-top: 70px;
+        padding-bottom: 80px;
+    }
+    .about-scholar h4 {
+        font-size: 30px;
+    }
+    .hero-img.two img {
+        display: none;
+    }
+    ul.image-gallery li figure {
+        width: 156px;
+        height: 130px;
+    }
+    .post-tags {
+        margin-top: 30px;
+        flex-wrap: wrap;
+        padding-top: 20px;
+    }
+    .img-navigating {
+        margin-bottom: 20px;
+    }
+    .single-comment {
+        padding: 12px;
+        flex-wrap: wrap;
+        border-radius: 0;
+        border-top-left-radius: 80px;
+    }
+    li.single-comment img {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .comment h4 {
+        font-size: 22px;
+    }
+    ul.photo-gallery img {
+        height: 130px;
+        width: 100%;
+    }
+    .post-tags ul.tags {
+        margin-bottom: 17px;
+    }
+    .masjid:before {
+        width: 120px;
+        height: 120px;
+        top: 51%;
+    }
+    .masjid {
+        padding-top: 60px;
+        padding-bottom: 100px;
+        background-size: 49%;
+    }
+    .masjid-text h3 {
+        font-size: 38px;
+    }
+    .masjid-text h3,
+    .masjid-text p,
+    .masjid-text {
+        width: 100%;
+    }
+    .connect-with {
+        margin-top: 34px;
+    }
+    .widget-title ul.social-media {
+        margin-top: 20px;
+    }
+    footer.two {
+        padding-top: 60px;
+    }
+    .learn-quran {
+        margin-top: 40px;
+    }
+    footer.two .widget-title {
+        padding-top: 20px;
+    }
+    .Information.widget-title {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .wpo-lower-footer p {
+        margin-bottom: 10px;
+    }
+    .namaz-timing-schedule,
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        width: 100%;
+    }
+    .slider-home-1 .owl-dots {
+        left: -2%;
+    }
+    .wpo-lower-footer {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .courses {
+        width: 100%;
+    }
+    .logos {
+        flex-wrap: wrap;
+    }
+    .logos li {
+        width: 45%;
+        margin-bottom: 20px;
+    }
+    .pillars-name {
+        width: 46%;
+    }
+    .join-our-community {
+        padding: 60px 20px;
+    }
+    .navigating-life {
+        margin-top: 26px;
+    }
+    .widget-title p {
+        width: 100%;
+    }
+    .leave-comment .btn {
+        margin-top: 20px;
+    }
+}
+
+@media(max-width: 576px) {
+    .gap {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .mb-80 {
+        margin-bottom: 20px;
+    }
+    .accordion .content {
+        padding: 22px;
+        border-radius: 25px;
+        padding-top: 67px !important;
+        margin-top: -48px;
+        padding-bottom: 20px;
+    }
+    .no-top {
+        padding-top: 0;
+    }
+    .no-bottom {
+        padding-bottom: 0;
+    }
+    .our-courses .content {
+        padding: 25px;
+    }
+    .plan-visit {
+        padding-top: 30px;
+    }
+    .course-free {
+        padding: 10px;
+        margin-top: -282px;
+        padding-top: 254px;
+    }
+    .travel-package-list {
+        padding: 15px;
+    }
+    .listen-holy .progressbar {
+        width: 142px;
+    }
+    .mobile-nav {
+        width: 100%;
+    }
+    .donation-collected .circle,
+    .donation-collected .circle canvas {
+        width: 80px !important;
+        height: 80px !important;
+    }
+    .pagination li.prev a,
+    .pagination li.next a {
+        font-size: 14px;
+    }
+    .pagination li.prev,
+    .pagination li.next {
+        width: 60px;
+    }
+    .courses-two {
+        flex-wrap: wrap;
+    }
+    .blog-two.our-blog .donation-collected .circle div {
+        left: 94%;
+        top: 38%;
+        font-size: 17px;
+    }
+    .donation-collected h3 {
+        font-size: 25px;
+    }
+    .blog-details-style ul.list li:before {
+        width: 9px;
+        height: 9px;
+    }
+    .progressbar {
+        width: 90px;
+    }
+    .scholar-two h4 span {
+        display: block;
+    }
+    .courses-two>img {
+        margin-right: 30px;
+        margin-bottom: 30px;
+    }
+    .pagination li {
+        padding: 14px;
+        padding-left: 0;
+    }
+    .scholar-two {
+        align-items: center;
+        margin-top: 15px;
+        display: flex;
+        margin-left: 13px;
+    }
+    .masjid {
+        background-size: 65%;
+    }
+    .masjid:before {
+        width: 100px;
+        height: 100px;
+        top: 69%;
+    }
+    .courses-two ul {
+        justify-content: center;
+    }
+    .courses-two {
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .program-img {
+        padding-right: 0;
+    }
+    .hero-text h1 {
+        font-size: 38px;
+    }
+    .hero-img img {
+        width: 50% !important;
+    }
+    .hero-section.two .hero-text h1 {
+        font-size: 38px;
+    }
+    .namaz-time {
+        width: 49%;
+    }
+    #countdown ul li span {
+        font-size: 30px;
+        line-height: 21px;
+        padding: 0;
+        padding-bottom: 4px;
+    }
+    p {
+        font-size: 14px;
+    }
+    .heading p {
+        font-size: 14px;
+        padding-top: 16px;
+    }
+    #countdown ul li {
+        width: 84px;
+        height: 84px;
+        padding: 7px;
+    }
+}
+
+@media(max-width: 500px) {
+    .comment h3 {
+        font-size: 28px;
+    }
+    .post-tags ul.tags {
+        flex-wrap: wrap;
+    }
+    .sidebar {
+        padding: 30px;
+    }
+    .upcoming-event #countdown {
+        left: 22%;
+        top: 50%;
+    }
+    .drop-caps-work p:first-letter {
+        font-size: 70px;
+        margin-right: 20px
+    }
+}
+
+@media(max-width: 480px) {
+    .logos li {
+        margin: 0;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .program-time {
+        width: 91%;
+        padding: 12px 14px;
+        margin-top: -40px;
+    }
+    .islamic-mosque {
+        margin-bottom: 15px;
+    }
+    .content {
+        padding-top: 30px !important;
+    }
+    .blog-details-style .video a {
+        top: 57%;
+        left: 50%;
+        transform: translate(-50px, -50px);
+    }
+    .error h2 {
+        font-size: 120px;
+        line-height: 73px;
+    }
+    footer.two .wpo-lower-footer {
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+    .scholars.scholars-details ul.social-media {
+        display: none;
+    }
+    ul.star li i {
+        font-size: 14px;
+    }
+    li.single-comment.children {
+        margin-left: 20px;
+    }
+    .error h3 {
+        font-size: 24px;
+    }
+    ul.star {
+        padding: 5px 10px;
+    }
+    .courses-details ul.social-media {
+        margin-left: 5px;
+        margin-top: 10px;
+    }
+    .our-blog.blog-two h5 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+    .scholars.scholars-details .opening-time .location span {
+        text-align: left;
+    }
+    .scholars.scholars-details .opening-time .location span {
+        font-size: 15px;
+    }
+    .scholars.scholars-details .opening-time-text {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .quote-color {
+        flex-wrap: wrap;
+    }
+    .quote-color h5 {
+        line-height: 36px;
+        margin-top: 14px;
+    }
+    ul.photo-gallery img {
+        height: 100px;
+    }
+    .post-tags ul.tags li a {
+        margin-bottom: 4px;
+        padding: 8px 10px;
+        display: block;
+    }
+    .bannr-text h2 {
+        padding-top: 10px;
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .courses-two>img {
+        margin-right: 0;
+    }
+    .map iframe {
+        height: 250px;
+    }
+    .program-time h5 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    h2 {
+        font-size: 30px;
+    }
+    .navigating-life .video i {
+        width: 39px;
+        height: 39px;
+        margin-left: 11px;
+        margin-right: 5px;
+    }
+    .welcome-to-ibadat-established span {
+        font-size: 12px;
+    }
+    .welcome-to-ibadat-established h4 {
+        line-height: 29px;
+        width: 110px;
+        height: 110px;
+        padding-top: 18px;
+        font-size: 29px;
+    }
+    .navigating-life .video a {
+        font-size: 14px;
+    }
+    .audio-ayat .owl-nav {
+        position: relative;
+        text-align: center;
+        margin-top: 25px;
+    }
+    .navigating-life .location span {
+        font-size: 10px;
+    }
+    .btn {
+        font-size: 14px;
+        padding: 16px 34px;
+    }
+    p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .support-us h4 {
+        font-size: 28px;
+    }
+    .support-us h6 {
+        font-size: 32px;
+    }
+    .support-us span {
+        font-size: 16px;
+        padding-bottom: 18px;
+        padding-top: 4px;
+    }
+    .support-us {
+        padding: 40px;
+    }
+    .wpo-lower-footer p {
+        text-align: center;
+    }
+    .wpo-lower-footer a {
+        font-size: 14px;
+    }
+    .join-our-community p {
+        padding-top: 16px;
+        padding-bottom: 20px;
+        font-size: 18px;
+    }
+    .navigating-life span {
+        padding-right: 12px;
+    }
+    .join-our-community h2 {
+        font-size: 28px;
+        width: 100%;
+    }
+    .navigating-life svg {
+        width: 12px;
+    }
+    .navigating-life i {
+        font-size: 12px;
+    }
+    .islamic-mosque {
+        width: 100%;
+    }
+    .slider-ayat .owl-dots {
+        text-align: center;
+        position: relative;
+        width: 100%;
+        margin-top: 0px;
+    }
+    .slider-ayat .owl-dots {
+        left: 0%;
+        bottom: -40px;
+    }
+    .upcoming-event {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+}
+
+@media(max-width: 450px) {
+    .logos-heading h3 {
+        font-size: 28px;
+    }
+    .upcoming-text {
+        padding: 20px;
+    }
+    .courses-img img {
+        object-fit: cover;
+        height: 280px;
+    }
+    .courses-details h5 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .upcoming-event #countdown {
+        left: 18%;
+        top: 46%;
+    }
+    .upcoming-text .location {
+        padding-top: 3px;
+    }
+    .pagination li a {
+        padding-right: 14px;
+    }
+    .bannr-section {
+        padding-top: 66px;
+        padding-bottom: 30px;
+    }
+    .sidebar h3 {
+        font-size: 20px;
+    }
+    .recent-post a {
+        font-size: 18px;
+    }
+    .pagination li.prev,
+    .pagination li.next {
+        width: 54px;
+    }
+    .masjid:before {
+        width: 80px;
+        height: 80px;
+        top: 69%;
+    }
+    .hero-section.two .hero-text h1 {
+        font-size: 30px;
+    }
+    .learn-quran h4 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+    .learn-quran {
+        padding: 30px;
+    }
+    .masjid-text h3 {
+        line-height: 31px;
+        font-size: 30px;
+    }
+    .footer-top {
+        border-bottom: 0;
+        padding-bottom: 0px;
+        margin-bottom: 50px;
+    }
+    .subscribe {
+        flex-wrap: wrap;
+    }
+    .subscribe button {
+        margin-top: 6px;
+        right: auto;
+        top: auto;
+        padding: 18px 40px;
+        position: relative;
+    }
+    #countdown ul li {
+        margin-right: -10px;
+    }
+    .pillars-name figure {
+        width: 75px;
+        height: 75px;
+    }
+    .pillars-name figure img {
+        width: 52px;
+    }
+    .pillars-name {
+        margin-right: 10px;
+        width: 46%;
+    }
+    .ayat h5 {
+        font-size: 14px;
+        padding: 5px 16px;
+    }
+    .ayat h4 {
+        padding-top: 7px;
+        font-size: 17px;
+        padding-bottom: 20px;
+        line-height: 26px;
+    }
+    .pillars-name a {
+        font-size: 20px;
+        padding-left: 10px;
+    }
+    .pillars-name span {
+        padding-left: 10px;
+        font-size: 14px;
+    }
+    .donation-collected .progressbar {
+        margin-left: 30px;
+    }
+    ol.breadcrumb a,
+    ol.breadcrumb li {
+        font-size: 14px;
+        color: #fff;
+    }
+    .breadcrumb-item+.breadcrumb-item::before {
+        padding-right: .4rem;
+        padding-left: .4rem;
+    }
+}
+
+@media(max-width: 410px) {
+    .upcoming-event #countdown {
+        left: 16%;
+        top: 42%;
+    }
+}
+
+@media(max-width: 375px) {
+    ul.image-gallery li figure {
+        width: 134px;
+        height: 100px;
+    }
+    ul.photo-gallery img {
+        height: 80px;
+        width: 100%;
+    }
+    .single-comment span {
+        font-size: 13px;
+    }
+    .upcoming-event #countdown {
+        left: 12%;
+        top: 41%;
+    }
+}
