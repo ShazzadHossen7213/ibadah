@@ -1,8 +1,17 @@
-<!DOCTYPE html>
-<html lang="<?php language_attributes();?>" class="no-js">
+<?php
+/**
+ *The header templete for our theme
+ * @package ibadah
+ */
+?>
 
+<!DOCTYPE html>
+<html lang="<?php language_attributes();?>" class="no-js" lang="en">
 <head>
     <meta charset="<?php bloginfo( 'charset' ) ?>">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" <?php bloginfo("pingback_url");?> >
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ibadah - Home 1</title>
     <link rel="icon" href="assets/img/favicon.png">
