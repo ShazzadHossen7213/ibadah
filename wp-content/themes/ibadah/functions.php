@@ -18,6 +18,8 @@ function ibadah_css_js_file_calling() {
     wp_enqueue_style('fontawesome');
     wp_register_style('jquery.fancybox', get_template_directory_uri() . '/assets/css/jquery.fancybox.min.css', array(), '1.0.1', 'all');
     wp_enqueue_style('jquery.fancybox');
+    wp_register_style('jquery.fancybox', get_template_directory_uri() . '/assets/css/jquery.fancybox.min.css', array(), '1.0.1', 'all');
+    wp_enqueue_style('jquery.fancybox');
     
     // jQuery & js
     wp_enqueue_script('jquery');
